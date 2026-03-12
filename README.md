@@ -10,15 +10,10 @@
 - power pivot
 - power bi
 - motor de base de datos Mysql
-  ## competencias vistas
-  - requisitos
-  - excel
-  - matematicas
-  - fisica
-  - medio ambiente
-  - derechos fundamentales
-  - algoritmo
-  - analisis de datos
-  - etica
-  - cultura fisica
+- excel
+- algoritmo
+- requisitos
+  ## Manejo de herramientas editor
+  - Photoshop
+  - balsamiq 
     
